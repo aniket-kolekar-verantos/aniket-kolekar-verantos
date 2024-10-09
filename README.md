@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aniket-kolekar-verantos
+- 👋 Hi, I’m Aniket Kolekar
 - 👀 I’m interested in full-stack development, especially React and React Native.
 - 🌱 I’m currently learning Python, FastAPI, basic DevOps, and AWS.
 - 💞️ I’m looking to collaborate on innovative projects and open-source contributions.
